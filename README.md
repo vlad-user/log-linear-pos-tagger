@@ -1,2 +1,2 @@
 # Log Linear Part-Of-Speech tagger.
-See readme.pdf for details.
+[readme.pdf](https://github.com/vlad-user/log-linear-pos-tagger/blob/master/readme.pdf)
